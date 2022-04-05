@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "624ad27e830b090989f18aa2"
+  },
+  "Marca": "Seat",
+  "Modelo": "Turismo",
+  "Matricula": "2345fgv",
+  "Kilometros": 2,
+  "Anio": 2018,
+  "Potencia": 43,
+  "Sello": true,
+  "Precio": 1200,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad2cb830b090989f18aa3"
+  },
+  "Marca": "Seat",
+  "Modelo": "Turismo",
+  "Matricula": "435fgh",
+  "Kilometros": 49,
+  "Anio": 2018,
+  "Potencia": 15,
+  "Sello": false,
+  "Precio": 6000,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad362830b090989f18aa4"
+  },
+  "Marca": "Renault",
+  "Modelo": "Deportivo",
+  "Matricula": "8793ghj",
+  "Kilometros": 0,
+  "Anio": 2012,
+  "Potencia": 43,
+  "Sello": false,
+  "Precio": 20000,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad3b0830b090989f18aa5"
+  },
+  "Marca": "Mercedes",
+  "Modelo": "Deportivo",
+  "Matricula": "8793ghj",
+  "Kilometros": 689.234,
+  "Anio": 2008,
+  "Potencia": 23,
+  "Sello": false,
+  "Precio": 4000,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad3e1830b090989f18aa6"
+  },
+  "Marca": "Pepe",
+  "Modelo": "Deportivo",
+  "Matricula": "3333ghj",
+  "Kilometros": 445342,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": true,
+  "Precio": 234,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad421830b090989f18aa7"
+  },
+  "Marca": "Skoda",
+  "Modelo": "Turismo",
+  "Matricula": "8793ghj",
+  "Kilometros": 34231,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": false,
+  "Precio": 3200,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad476830b090989f18aa8"
+  },
+  "Marca": "Masda",
+  "Modelo": "Turismo",
+  "Matricula": "8998ghj",
+  "Kilometros": 34231,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": false,
+  "Precio": 3200,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad4b192227ce2836581b4"
+  },
+  "Marca": "Skoda",
+  "Modelo": "Turismo",
+  "Matricula": "8793ghj",
+  "Kilometros": 34231,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": false,
+  "Precio": 3200,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad4c892227ce2836581b5"
+  },
+  "Marca": "Goku",
+  "Modelo": "Turismo",
+  "Matricula": "8793ghj",
+  "Kilometros": 34231,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": false,
+  "Precio": 3200,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad4fa92227ce2836581b6"
+  },
+  "Marca": "Vegeta",
+  "Modelo": "Chulita",
+  "Matricula": "8793ghj",
+  "Kilometros": 1,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": false,
+  "Precio": 3200,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad51692227ce2836581b7"
+  },
+  "Marca": "Rang Rover",
+  "Modelo": "Turismo",
+  "Matricula": "8793ghj",
+  "Kilometros": 34231,
+  "Anio": 2012,
+  "Potencia": 12,
+  "Sello": false,
+  "Precio": 3200,
+  "ID_Operacion": 1
+}]

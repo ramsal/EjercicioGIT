@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "624ad5eb92227ce2836581b8"
+  },
+  "Nombre": "Juana",
+  "Apellidos": "Lopez",
+  "Provincia": "Sevilla",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad64892227ce2836581b9"
+  },
+  "Nombre": "Juan",
+  "Apellidos": "Caceres",
+  "Provincia": "Cordoba",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad66d92227ce2836581ba"
+  },
+  "Nombre": "Pedro",
+  "Apellidos": "Rene",
+  "Provincia": "Cadiz",
+  "Telefono": "68349889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad68192227ce2836581bb"
+  },
+  "Nombre": "Lola",
+  "Apellidos": "Iñiquez",
+  "Provincia": "Cordoba",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad6c192227ce2836581bc"
+  },
+  "Nombre": "Juan",
+  "Apellidos": "Pedraza",
+  "Provincia": "Almeria",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad6e692227ce2836581bd"
+  },
+  "Nombre": "Triana",
+  "Apellidos": "CLopez",
+  "Provincia": "Remedio",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad70f92227ce2836581be"
+  },
+  "Nombre": "Leonor",
+  "Apellidos": "Caceres",
+  "Provincia": "Cuenca",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad74192227ce2836581bf"
+  },
+  "Nombre": "Petunia",
+  "Apellidos": "Rodriguez",
+  "Provincia": "Pamplona",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad77b92227ce2836581c0"
+  },
+  "Nombre": "Martina",
+  "Apellidos": "Caceres",
+  "Provincia": "Cordoba",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624ad79692227ce2836581c1"
+  },
+  "Nombre": "Rosario",
+  "Apellidos": "Matamoros",
+  "Provincia": "Granada",
+  "Telefono": "687789889",
+  "ID_Operacion": 1
+}]
