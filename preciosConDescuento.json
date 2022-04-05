@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "624c275b30502d67a3402fbc"
+  },
+  "precio": 25000
+},{
+  "_id": {
+    "$oid": "624c275b30502d67a3402fbd"
+  },
+  "precioDescuento": 22500
+},{
+  "_id": {
+    "$oid": "624c275c30502d67a3402fbe"
+  },
+  "precio": 30000
+},{
+  "_id": {
+    "$oid": "624c275c30502d67a3402fbf"
+  },
+  "precioDescuento": 27000
+},{
+  "_id": {
+    "$oid": "624c28452dcc111e63b3f27a"
+  }
+}]

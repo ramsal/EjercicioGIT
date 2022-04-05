@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "624c04294692e69fc84b996e"
+  },
+  "Nombre": "Loren",
+  "Apellidos": "Jimenez",
+  "Provincia": "Toledo",
+  "Telefono": 649098585,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b996f"
+  },
+  "Nombre": "Pedro",
+  "Apellidos": "Garrido",
+  "Provincia": "Sevilla",
+  "Telefono": 649348585,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9970"
+  },
+  "Nombre": "Esteban",
+  "Apellidos": "Rufino",
+  "Provincia": "Salamanca",
+  "Telefono": 642195587,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9971"
+  },
+  "Nombre": "Tomas",
+  "Apellidos": "Rubiales",
+  "Provincia": "Cartagena",
+  "Telefono": 6492485567,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9972"
+  },
+  "Nombre": "Patxi",
+  "Apellidos": "Escassi",
+  "Provincia": "Bilbao",
+  "Telefono": 649868557,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9973"
+  },
+  "Nombre": "Manuel",
+  "Apellidos": "Lopera",
+  "Provincia": "Sevilla",
+  "Telefono": 756895647,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9974"
+  },
+  "Nombre": "Clauss",
+  "Apellidos": "Raser",
+  "Provincia": "Sevilla",
+  "Telefono": 459875469,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9975"
+  },
+  "Nombre": "Timothy",
+  "Apellidos": "Stevens",
+  "Provincia": "Brighton",
+  "Telefono": 897624899,
+  "IDOperacion": 5
+},{
+  "_id": {
+    "$oid": "624c04294692e69fc84b9976"
+  },
+  "Nombre": "Coman",
+  "Apellidos": "Federer",
+  "Provincia": "Londres",
+  "Telefono": 756895647,
+  "IDOperacion": 5
+}]
