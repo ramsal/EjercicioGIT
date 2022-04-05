@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "624b5051544cf61ce4aa1258"
+  },
+  "Nombre": "Manuel",
+  "Apellido": "Gil",
+  "Provincia": "Cádiz",
+  "Teléfono": 62201125,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b50c1544cf61ce4aa1259"
+  },
+  "Nombre": "Laura",
+  "Apellido": "Pérez",
+  "Provincia": "Gerona",
+  "Teléfono": 652360071,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b510b544cf61ce4aa125a"
+  },
+  "Nombre": "Rodrigo",
+  "Apellido": "Fernández",
+  "Provincia": "Sevilla",
+  "Teléfono": 641158896,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b513b544cf61ce4aa125b"
+  },
+  "Nombre": "Maria",
+  "Apellido": "Gonzalez",
+  "Provincia": "Cádiz",
+  "Teléfono": 611145879,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b5179544cf61ce4aa125c"
+  },
+  "Nombre": "Aitana",
+  "Apellido": "Gómez",
+  "Provincia": "Granada",
+  "Teléfono": 632002369,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b51d2544cf61ce4aa125d"
+  },
+  "Nombre": "Daniel",
+  "Apellido": "García",
+  "Provincia": "Ávila",
+  "Teléfono": 644556320,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b51fd544cf61ce4aa125e"
+  },
+  "Nombre": "Antonio",
+  "Apellido": "Royano",
+  "Provincia": "Madrid",
+  "Teléfono": 652103698,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b5231544cf61ce4aa125f"
+  },
+  "Nombre": "Lucia",
+  "Apellido": "Martin",
+  "Provincia": "Córdoba",
+  "Teléfono": 614778987,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b526e544cf61ce4aa1260"
+  },
+  "Nombre": "Álvaro",
+  "Apellido": "Álvarez",
+  "Provincia": "Jaén",
+  "Teléfono": 645569820,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b52b9544cf61ce4aa1261"
+  },
+  "Nombre": "Paula",
+  "Apellido": "Budía",
+  "Provincia": "Huelva",
+  "Teléfono": 645522001,
+  "ID_Operacion": 1
+}]
