@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "624b2570544cf61ce4aa124e"
+  },
+  "Marca": "Seat",
+  "Modelo": "León",
+  "Matrícula": "2801NLE",
+  "Kilómetro": "0KM",
+  "Año": 2022,
+  "Potencia": "204CV",
+  "SelloE": true,
+  "Precio": 40000,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b26a5544cf61ce4aa124f"
+  },
+  "Marca": "Rover",
+  "Modelo": "Range",
+  "Matrícula": "VXIO CZ0",
+  "Kilómetro": "220KM",
+  "Año": 2011,
+  "Potencia": "313CV",
+  "SelloE": false,
+  "Precio": 34010,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b46cb544cf61ce4aa1250"
+  },
+  "Marca": "Ferrari",
+  "Modelo": "FF",
+  "Matrícula": "VE4O S90",
+  "Kilómetro": "520KM",
+  "Año": 2017,
+  "Potencia": "400CV",
+  "SelloE": true,
+  "Precio": 75000,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b47e5544cf61ce4aa1251"
+  },
+  "Marca": "Ford",
+  "Modelo": "KA",
+  "Matrícula": "II8 AHO",
+  "Kilómetro": "20KM",
+  "Año": 2018,
+  "Potencia": "290CV",
+  "SelloE": false,
+  "Precio": 23000,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b492e544cf61ce4aa1252"
+  },
+  "Marca": "Tesla",
+  "Modelo": "Model X",
+  "Matrícula": "EV6 GT",
+  "Kilómetro": "0KM",
+  "Año": 2020,
+  "Potencia": "670CV",
+  "SelloE": true,
+  "Precio": 99990,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b4adb544cf61ce4aa1253"
+  },
+  "Marca": "Audi",
+  "Modelo": "100",
+  "Matrícula": "EDDAUTO",
+  "Kilómetro": "253000KM",
+  "Año": 1992,
+  "Potencia": "150CV",
+  "SelloE": true,
+  "Precio": 2700,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b4c83544cf61ce4aa1254"
+  },
+  "Marca": "BMW",
+  "Modelo": "Serie 8",
+  "Matrícula": "DAYTONA GT",
+  "Kilómetro": "14000KM",
+  "Año": 2020,
+  "Potencia": "625CV",
+  "SelloE": false,
+  "Precio": 129900,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b4d99544cf61ce4aa1255"
+  },
+  "Marca": "Alpina",
+  "Modelo": "B10",
+  "Matrícula": "YHGT89 KL",
+  "Kilómetro": "14700KM",
+  "Año": 2004,
+  "Potencia": "300CV",
+  "SelloE": false,
+  "Precio": 44999,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b4e5a544cf61ce4aa1256"
+  },
+  "Marca": "Aston",
+  "Modelo": "DB7",
+  "Matrícula": "ENPW9 P65",
+  "Kilómetro": "62363KM",
+  "Año": 2003,
+  "Potencia": "420CV",
+  "SelloE": true,
+  "Precio": 54900,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+},{
+  "_id": {
+    "$oid": "624b4ee9544cf61ce4aa1257"
+  },
+  "Marca": "Cadillac",
+  "Modelo": "BLS",
+  "Matrícula": "9766 FRN",
+  "Kilómetro": "141574KM",
+  "Año": 2007,
+  "Potencia": "150CV",
+  "SelloE": false,
+  "Precio": 5750,
+  "CodOperac": 1,
+  "ID_Operacion": 1
+}]
