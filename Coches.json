@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "624ad47d3fc75faa915ee2e8"
+  },
+  "id": 1,
+  "Marca": "Ferrari",
+  "Modelo": "576K",
+  "Matricula": "1234HKL",
+  "Kilometros": 80,
+  "Año": 2016,
+  "Potencia": 780,
+  "Sello": "A",
+  "Precio": 1700,
+  "ID_OPERACION": 1,
+  "PrecioDescuento": 1530
+},{
+  "_id": {
+    "$oid": "624ad73a3fc75faa915ee2e9"
+  },
+  "id": 2,
+  "Marca": "Lancya",
+  "Modelo": "123P",
+  "Matricula": "4321HKL",
+  "Kilometros": 90,
+  "Año": 2017,
+  "Potencia": 880,
+  "Sello": "B",
+  "Precio": 1800,
+  "ID_OPERACION": 2,
+  "PrecioDescuento": 1620
+},{
+  "_id": {
+    "$oid": "624ad7433fc75faa915ee2ea"
+  },
+  "id": 3,
+  "Marca": "Mercedes",
+  "Modelo": "678H",
+  "Matricula": "1246HHH",
+  "Kilometros": 100,
+  "Año": 2022,
+  "Potencia": 580,
+  "Sello": "A",
+  "Precio": 1900,
+  "ID_OPERACION": 3,
+  "PrecioDescuento": 1710
+},{
+  "_id": {
+    "$oid": "624ad74d3fc75faa915ee2eb"
+  },
+  "id": 4,
+  "Marca": "Volksvagen",
+  "Modelo": "579P",
+  "Matricula": "4444LLL",
+  "Kilometros": 500,
+  "Año": 2021,
+  "Potencia": 980,
+  "Sello": "B",
+  "Precio": 1200,
+  "ID_OPERACION": 4,
+  "PrecioDescuento": 1080
+},{
+  "_id": {
+    "$oid": "624ad7573fc75faa915ee2ec"
+  },
+  "id": 5,
+  "Marca": "Toyota",
+  "Modelo": "987A",
+  "Matricula": "4333PPP",
+  "Kilometros": 1230,
+  "Año": 2014,
+  "Potencia": 780,
+  "Sello": "S",
+  "Precio": 1300,
+  "ID_OPERACION": 5,
+  "PrecioDescuento": 1170
+},{
+  "_id": {
+    "$oid": "624ad7663fc75faa915ee2ed"
+  },
+  "id": 6,
+  "Marca": "Mitsubishi",
+  "Modelo": "528O",
+  "Matricula": "4545HGG",
+  "Kilometros": 5234,
+  "Año": 2012,
+  "Potencia": 280,
+  "Sello": "A",
+  "Precio": 1400,
+  "ID_OPERACION": 6,
+  "PrecioDescuento": 1260
+},{
+  "_id": {
+    "$oid": "624ad76e3fc75faa915ee2ee"
+  },
+  "id": 7,
+  "Marca": "Renault",
+  "Modelo": "123F",
+  "Matricula": "2344GGT",
+  "Kilometros": 5320,
+  "Año": 2016,
+  "Potencia": 480,
+  "Sello": "B",
+  "Precio": 1200,
+  "ID_OPERACION": 7,
+  "PrecioDescuento": 1080
+},{
+  "_id": {
+    "$oid": "624ad7763fc75faa915ee2ef"
+  },
+  "id": 8,
+  "Marca": "Citroen",
+  "Modelo": "VRR4",
+  "Matricula": "6743JYL",
+  "Kilometros": 6435,
+  "Año": 2014,
+  "Potencia": 480,
+  "Sello": "B",
+  "Precio": 1470,
+  "ID_OPERACION": 8,
+  "PrecioDescuento": 1323
+},{
+  "_id": {
+    "$oid": "624ad7843fc75faa915ee2f0"
+  },
+  "id": 8,
+  "Marca": "Porsche",
+  "Modelo": "AF31",
+  "Matricula": "7345OLK",
+  "Kilometros": 3453,
+  "Año": 2015,
+  "Potencia": 580,
+  "Sello": "C",
+  "Precio": 1540,
+  "ID_OPERACION": 9,
+  "PrecioDescuento": 1386
+},{
+  "_id": {
+    "$oid": "624ad78c3fc75faa915ee2f1"
+  },
+  "id": 9,
+  "Marca": "Lamborgini",
+  "Modelo": "FWEF",
+  "Matricula": "5363GHI",
+  "Kilometros": 2342,
+  "Año": 2018,
+  "Potencia": 776,
+  "Sello": "S",
+  "Precio": 1700,
+  "ID_OPERACION": 10,
+  "PrecioDescuento": 1530
+}]
