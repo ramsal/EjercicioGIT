@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "624ad272d0a2a6874fc0b3b2"
+  },
+  "marca": "audi",
+  "modelo": "r8",
+  "matricula": "1234ABC",
+  "Km": "0",
+  "anyo": "2008",
+  "potencia": 200,
+  "selloE": false,
+  "precio": 15000,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad302d0a2a6874fc0b3b3"
+  },
+  "marca": "mercedes",
+  "modelo": "nose",
+  "matricula": "1235ABC",
+  "Km": "0",
+  "anyo": "2018",
+  "potencia": 200,
+  "selloE": false,
+  "precio": 10000,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad387d0a2a6874fc0b3b4"
+  },
+  "marca": "skoda",
+  "modelo": "favia",
+  "matricula": "1245ABC",
+  "Km": "100000",
+  "anyo": "2000",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 20000,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad3c4d0a2a6874fc0b3b5"
+  },
+  "marca": "skoda",
+  "modelo": "favia",
+  "matricula": "1245AAA",
+  "Km": "1000",
+  "anyo": "2001",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 2000,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad3f6d0a2a6874fc0b3b6"
+  },
+  "marca": "nissan",
+  "modelo": "qasqiaai",
+  "matricula": "1245AAF",
+  "Km": "100",
+  "anyo": "2012",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 2040,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad435d0a2a6874fc0b3b7"
+  },
+  "marca": "seat",
+  "modelo": "ibiza",
+  "matricula": "1245AFF",
+  "Km": "5000",
+  "anyo": "2021",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 2040,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad449d0a2a6874fc0b3b8"
+  },
+  "marca": "seat",
+  "modelo": "campo",
+  "matricula": "1445AFF",
+  "Km": "5000",
+  "anyo": "2021",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 2040,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad48dd0a2a6874fc0b3b9"
+  },
+  "marca": "volkswagen",
+  "modelo": "polo",
+  "matricula": "5445ASD",
+  "Km": "0",
+  "anyo": "2012",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 1040,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad49cd0a2a6874fc0b3ba"
+  },
+  "marca": "volkswagen",
+  "modelo": "polo",
+  "matricula": "5445ASS",
+  "Km": "0",
+  "anyo": "2012",
+  "potencia": 200,
+  "selloE": true,
+  "precio": 104000000,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad4b9d0a2a6874fc0b3bb"
+  },
+  "marca": "volkswagen",
+  "modelo": "dasAuto",
+  "matricula": "5445ADD",
+  "Km": "0",
+  "anyo": "2007",
+  "potencia": 200,
+  "selloE": false,
+  "precio": 10400,
+  "ID_Operacion": 0
+}]
