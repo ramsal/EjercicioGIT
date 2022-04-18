@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "624afdaeb9ca54a69fdc7df2"
+  },
+  "id": 1,
+  "Nombre": "Carlos",
+  "Apellidos": "Gomez",
+  "Telefono": 123456789,
+  "ID_OPERACION": 2
+},{
+  "_id": {
+    "$oid": "624afdb7b9ca54a69fdc7df3"
+  },
+  "id": 2,
+  "Nombre": "Carla",
+  "Apellidos": "Perez",
+  "Telefono": 987654321,
+  "ID_OPERACION": 3
+},{
+  "_id": {
+    "$oid": "624afdbeb9ca54a69fdc7df4"
+  },
+  "id": 3,
+  "Nombre": "Mario",
+  "Apellidos": "Hernandez",
+  "Telefono": 987123456,
+  "ID_OPERACION": 4
+},{
+  "_id": {
+    "$oid": "624afdc3b9ca54a69fdc7df5"
+  },
+  "id": 4,
+  "Nombre": "Rafael",
+  "Apellidos": "Gonzalez",
+  "Telefono": 123987456,
+  "ID_OPERACION": 5
+},{
+  "_id": {
+    "$oid": "624afdcbb9ca54a69fdc7df6"
+  },
+  "id": 5,
+  "Nombre": "Alejandro",
+  "Apellidos": "Martin",
+  "Telefono": 234567981,
+  "ID_OPERACION": 6
+},{
+  "_id": {
+    "$oid": "624afdd2b9ca54a69fdc7df7"
+  },
+  "id": 6,
+  "Nombre": "David",
+  "Apellidos": "Sanchez",
+  "Telefono": 918273645,
+  "ID_OPERACION": 7
+},{
+  "_id": {
+    "$oid": "624afdd9b9ca54a69fdc7df8"
+  },
+  "id": 7,
+  "Nombre": "Sergio",
+  "Apellidos": "Del Monte",
+  "Telefono": 564738291,
+  "ID_OPERACION": 8
+},{
+  "_id": {
+    "$oid": "624afde0b9ca54a69fdc7df9"
+  },
+  "id": 8,
+  "Nombre": "Jorge",
+  "Apellidos": "de la Rosa",
+  "Telefono": 222222222,
+  "ID_OPERACION": 9
+},{
+  "_id": {
+    "$oid": "624afde7b9ca54a69fdc7dfa"
+  },
+  "id": 9,
+  "Nombre": "Nick",
+  "Apellidos": "Rodriguez",
+  "Telefono": 989898213,
+  "ID_OPERACION": 10
+},{
+  "_id": {
+    "$oid": "624afdecb9ca54a69fdc7dfb"
+  },
+  "id": 8,
+  "Nombre": "Zack",
+  "Apellidos": "Sanchez",
+  "Telefono": 900424216,
+  "ID_OPERACION": 1
+}]
