@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "624ad543d0a2a6874fc0b3bc"
+  },
+  "nombre": "Manuel",
+  "apellidos": "polo",
+  "provincia": "Sevilla",
+  "telefono": 655193937,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad54ed0a2a6874fc0b3bd"
+  },
+  "nombre": "Pedro",
+  "apellidos": "polo",
+  "provincia": "Sevilla",
+  "telefono": 655193938,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad561d0a2a6874fc0b3be"
+  },
+  "nombre": "Pedro",
+  "apellidos": "Sanchez",
+  "provincia": "Madriz",
+  "telefono": 655193955,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad574d0a2a6874fc0b3bf"
+  },
+  "nombre": "Antonio",
+  "apellidos": "Sanchez",
+  "provincia": "Cadiz",
+  "telefono": 600193955,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad58fd0a2a6874fc0b3c0"
+  },
+  "nombre": "David",
+  "apellidos": "Ojeda",
+  "provincia": "Sevilla",
+  "telefono": 600193955,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad59fd0a2a6874fc0b3c1"
+  },
+  "nombre": "Alvaro",
+  "apellidos": "Ojeda",
+  "provincia": "Sevilla",
+  "telefono": 600193005,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad5bbd0a2a6874fc0b3c2"
+  },
+  "nombre": "Julio",
+  "apellidos": "Cabanillas",
+  "provincia": "Sevilla",
+  "telefono": 60000005,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad5d7d0a2a6874fc0b3c3"
+  },
+  "nombre": "Marcos",
+  "apellidos": "Titos",
+  "provincia": "Salamanca",
+  "telefono": 666000005,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad5fdd0a2a6874fc0b3c4"
+  },
+  "nombre": "PabloNuno",
+  "apellidos": "Nobrega",
+  "provincia": "Huelva",
+  "telefono": 686000005,
+  "ID_Operacion": 0
+},{
+  "_id": {
+    "$oid": "624ad61bd0a2a6874fc0b3c5"
+  },
+  "nombre": "Pablo",
+  "apellidos": "Pino",
+  "provincia": "Huelva",
+  "telefono": 686000000,
+  "ID_Operacion": 0
+}]
